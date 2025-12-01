@@ -21,7 +21,9 @@ A rework of my proxy scraper that uses arguments.
 
 ### VALID
 <img width="840" height="248" alt="image" src="https://github.com/user-attachments/assets/b90df3bb-5501-4995-b14f-60a17f101f0f" />
+
 ### INVALID
+
 <img width="806" height="299" alt="image" src="https://github.com/user-attachments/assets/77caf1d7-1067-489f-ae45-379382777697" />
 
 ## Console Logs
